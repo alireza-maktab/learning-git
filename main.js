@@ -4,4 +4,7 @@ function calculation(a, b) {
     return a + b
 }
 
-alert(calculation(3, 1))
+const firstNumber = +prompt("please enter an number")
+const secondNumber = +prompt("please enter an number")
+
+alert(calculation(firstNumber, secondNumber))
