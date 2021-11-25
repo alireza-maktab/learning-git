@@ -1,5 +1,3 @@
-console.log("Hello world")
-
 function calculation(a, b) {
     return a + b
 }
