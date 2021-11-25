@@ -11,3 +11,5 @@ const result = calculation(firstNumber, secondNumber)
 
 // show result
 alert(result)
+
+console.log(result)
