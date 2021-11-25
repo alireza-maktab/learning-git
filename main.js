@@ -1,5 +1,7 @@
 console.log("Hello world")
 
-const a = 1 + 3
+function calculation(a, b) {
+    return a + b
+}
 
-alert(a)
+alert(calculation(3, 1))
