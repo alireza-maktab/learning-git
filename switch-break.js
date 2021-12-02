@@ -3,7 +3,7 @@ const personStates = {
     NORMAL: Symbol.for('Abbas')
 }
 
-console.log(Symbol.keyFor(personStates.NORMAL) === 'Abbas')
+// console.log(Symbol.keyFor(personStates.NORMAL) === 'Abbas')
 
 
 // const person = {
